@@ -54,7 +54,7 @@ I’m a Cybersecurity student with a strong focus on **Governance, Risk, and Com
 
 ## 💡 Quote
 
-> "Security is not a product, but a process." – Bruce Schneier
+> "AI Won’t Replace Humans – But Humans With AI Will Replace Humans Without AI" – Karim Lakhani 
 
 ---
 
