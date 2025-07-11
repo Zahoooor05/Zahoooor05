@@ -45,13 +45,6 @@ I’m a Cybersecurity student with a strong focus on **Governance, Risk, and Com
 
 ---
 
-## 📊 GitHub Stats
-
-![Zahoooor05's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zahoooor05&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zahoooor05&layout=compact&theme=radical)
-
----
-
 ## 💡 Quote
 
 > "AI Won’t Replace Humans – But Humans With AI Will Replace Humans Without AI" – Karim Lakhani 
