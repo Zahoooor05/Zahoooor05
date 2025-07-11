@@ -21,6 +21,8 @@ I’m a Cybersecurity student with a strong focus on **Governance, Risk, and Com
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Prolog](https://img.shields.io/badge/Prolog-E61B23?style=flat)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-222222?style=flat)
 
 ---
